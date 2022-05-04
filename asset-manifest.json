@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/matlogis.github.io/static/css/main.f32bb265.css",
-    "main.js": "/matlogis.github.io/static/js/main.0d50dec8.js",
+    "main.css": "/matlogis.github.io/static/css/main.924c20e4.css",
+    "main.js": "/matlogis.github.io/static/js/main.3a8c5f26.js",
     "static/js/787.2b96a1ad.chunk.js": "/matlogis.github.io/static/js/787.2b96a1ad.chunk.js",
+    "static/media/signup_bg.jpg": "/matlogis.github.io/static/media/signup_bg.f9dcaa369746c30bae63.jpg",
     "index.html": "/matlogis.github.io/index.html",
-    "main.f32bb265.css.map": "/matlogis.github.io/static/css/main.f32bb265.css.map",
-    "main.0d50dec8.js.map": "/matlogis.github.io/static/js/main.0d50dec8.js.map",
+    "main.924c20e4.css.map": "/matlogis.github.io/static/css/main.924c20e4.css.map",
+    "main.3a8c5f26.js.map": "/matlogis.github.io/static/js/main.3a8c5f26.js.map",
     "787.2b96a1ad.chunk.js.map": "/matlogis.github.io/static/js/787.2b96a1ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f32bb265.css",
-    "static/js/main.0d50dec8.js"
+    "static/css/main.924c20e4.css",
+    "static/js/main.3a8c5f26.js"
   ]
 }
