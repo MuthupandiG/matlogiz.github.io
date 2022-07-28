@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MuthupandiG/matlogis.github.io/static/css/main.84116e07.css",
-    "main.js": "/MuthupandiG/matlogis.github.io/static/js/main.9547eb1b.js",
-    "static/js/787.2b96a1ad.chunk.js": "/MuthupandiG/matlogis.github.io/static/js/787.2b96a1ad.chunk.js",
-    "static/media/signup_bg.jpg": "/MuthupandiG/matlogis.github.io/static/media/signup_bg.f9dcaa369746c30bae63.jpg",
-    "index.html": "/MuthupandiG/matlogis.github.io/index.html",
-    "main.84116e07.css.map": "/MuthupandiG/matlogis.github.io/static/css/main.84116e07.css.map",
-    "main.9547eb1b.js.map": "/MuthupandiG/matlogis.github.io/static/js/main.9547eb1b.js.map",
-    "787.2b96a1ad.chunk.js.map": "/MuthupandiG/matlogis.github.io/static/js/787.2b96a1ad.chunk.js.map"
+    "main.css": "/matlogiz.github.io/static/css/main.0c6b9d40.css",
+    "main.js": "/matlogiz.github.io/static/js/main.d36f4124.js",
+    "static/js/787.2b96a1ad.chunk.js": "/matlogiz.github.io/static/js/787.2b96a1ad.chunk.js",
+    "static/media/signup_bg.jpg": "/matlogiz.github.io/static/media/signup_bg.f9dcaa369746c30bae63.jpg",
+    "index.html": "/matlogiz.github.io/index.html",
+    "main.0c6b9d40.css.map": "/matlogiz.github.io/static/css/main.0c6b9d40.css.map",
+    "main.d36f4124.js.map": "/matlogiz.github.io/static/js/main.d36f4124.js.map",
+    "787.2b96a1ad.chunk.js.map": "/matlogiz.github.io/static/js/787.2b96a1ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84116e07.css",
-    "static/js/main.9547eb1b.js"
+    "static/css/main.0c6b9d40.css",
+    "static/js/main.d36f4124.js"
   ]
 }
